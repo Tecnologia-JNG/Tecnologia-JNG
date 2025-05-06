@@ -40,7 +40,7 @@ Somos uma organização focada em desenvolvimento de soluções digitais, automa
 Entre em contato com a gente:
 
 - 🌐 [Site Oficial](https://www.tecnologiajng.com.br)
-- 📧 contato@tecnologiajng.com.br
+- 📧 ti@jng.com.br
 - 📱 [LinkedIn](https://www.linkedin.com/company/tecnologiajng)
 
 ---
