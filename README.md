@@ -1,4 +1,4 @@
-## JNG Materiais Elétricos
+## 💻💙 JNG Materiais Elétricos
 
 <img src="https://www.jng.com.br/userfiles/downloads/arquivos/07---setima-arte-1867x1867px-1867px-1867px.webp"  width="100%">
 
