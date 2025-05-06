@@ -1,24 +1,48 @@
-## 💻💙 JNG Materiais Elétricos
+<h1 align="center">Olá! 👋 Somos a Tecnologia JNG</h1>
 
-<img src="https://www.jng.com.br/userfiles/downloads/arquivos/07---setima-arte-1867x1867px-1867px-1867px.webp"  width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" />
+  <img src="https://img.shields.io/github/followers/Tecnologia-JNG?label=Follow&style=social" />
+</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+---
 
-<h1> Hello, welcome to Github!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+## 🧠 Sobre Nós
 
-My profile:
+Somos uma organização focada em desenvolvimento de soluções digitais, automações e sistemas personalizados. Nossa missão é facilitar o dia a dia através da tecnologia.
 
-- 💻 I am a programmer!
-- 💙 I'm deaf!
-- 📖 College study in system analysis and development!
-- 📚 I'm frontend and backend!
-- 🎯 Creativity!
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+## 🚀 Tecnologias que usamos
 
-<div align="center">
-  <a href="https://github.com/MatheusForstner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusforstner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%" style="padding:2em;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusforstner&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tecnologia-JNG&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tecnologia-JNG&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Contato
+
+Entre em contato com a gente:
+
+- 🌐 [Site Oficial](https://www.tecnologiajng.com.br)
+- 📧 contato@tecnologiajng.com.br
+- 📱 [LinkedIn](https://www.linkedin.com/company/tecnologiajng)
+
+---
+
+<p align="center">Feito com ❤️ por <strong>Tecnologia JNG</strong></p>
