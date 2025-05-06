@@ -1,9 +1,6 @@
-# PROGRAMADOR
-<img src="https://www.jng.com.br/userfiles/downloads/arquivos/07---setima-arte-1867x1867px-1867px-1867px.webp"  width="100%">
+## JNG Materiais Elétricos
 
-<div align="center">
-<img src="https://classic.exame.com/wp-content/uploads/2017/05/programador-senior-monsitj.jpg?quality=70&strip=info&w=1200">
-</div>
+<img src="https://www.jng.com.br/userfiles/downloads/arquivos/07---setima-arte-1867x1867px-1867px-1867px.webp"  width="100%">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
